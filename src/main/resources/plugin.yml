@@ -1,0 +1,7 @@
+main: net.teamfekker.TFISM.Main
+name: TFISM
+version: 0.0.1
+api-version: 1.16
+description: Enables TFI StaffMode!
+authors: [BearTrafalgar, GabeTrafalgar]
+website: www.teamfekker.net
